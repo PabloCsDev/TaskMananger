@@ -1,0 +1,3 @@
+INDEX VERSION 1.134+/home/kira/Documentos/projetos/taskapp/.metadata/.plugins/org.eclipse.jdt.core
+776411736.index
+1271913443.index
